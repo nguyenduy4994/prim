@@ -1,0 +1,6 @@
+D:\solution\Algorithm_Prim\Algorithm_Prim\bin\Debug\Algorithm_Prim.exe.config
+D:\solution\Algorithm_Prim\Algorithm_Prim\bin\Debug\Algorithm_Prim.exe
+D:\solution\Algorithm_Prim\Algorithm_Prim\bin\Debug\Algorithm_Prim.pdb
+D:\solution\Algorithm_Prim\Algorithm_Prim\obj\Debug\Algorithm_Prim.csprojResolveAssemblyReference.cache
+D:\solution\Algorithm_Prim\Algorithm_Prim\obj\Debug\Algorithm_Prim.exe
+D:\solution\Algorithm_Prim\Algorithm_Prim\obj\Debug\Algorithm_Prim.pdb
